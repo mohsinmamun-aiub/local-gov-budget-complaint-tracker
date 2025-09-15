@@ -4,3 +4,7 @@
 "Built dashboard for officials to update complaint statuses." 
 "**Status: Done**" 
 "" 
+"## Government Official Dashboard" 
+"Built dashboard for officials to update complaint statuses." 
+"**Status: Done**" 
+"" 
