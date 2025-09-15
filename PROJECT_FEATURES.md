@@ -1,5 +1,9 @@
 -(initial features go here)
 
+"## Citizen Menu" 
+"Designed menu for citizens to report issues and view budgets." 
+"**Status: Done**" 
+
 "## Admin Dashboard" 
 "Built admin dashboard with budget/complaint summaries." 
 "**Status: Done**" 
@@ -10,11 +14,7 @@
 
 "## Government Official Dashboard" 
 "Built dashboard for officials to update complaint statuses." 
-"**Status: Done**" 
-
-"## Government Official Dashboard" 
-"Built dashboard for officials to update complaint statuses." 
-"**Status: Done**" 
+"**Status: Done**"  
 
 "## Signup for Admin, Citizens, Officials" 
 "Implemented user registration with role-based access." 
