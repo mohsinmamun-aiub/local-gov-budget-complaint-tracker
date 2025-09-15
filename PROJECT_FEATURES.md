@@ -3,9 +3,17 @@
 "## Admin Dashboard" 
 "Built admin dashboard with budget/complaint summaries." 
 "**Status: Done**" 
-"" 
+ 
 "## Admin Menu" 
 "Designed navigation menu for admin panel." 
+"**Status: Done**" 
+
+"## Government Official Dashboard" 
+"Built dashboard for officials to update complaint statuses." 
+"**Status: Done**" 
+
+"## Government Official Dashboard" 
+"Built dashboard for officials to update complaint statuses." 
 "**Status: Done**" 
 
 "## Signup for Admin, Citizens, Officials" 
@@ -19,4 +27,4 @@
 "## Government Official Menu" 
 "Designed menu for officials to manage complaints." 
 "**Status: Done**" 
-"" 
+ 
