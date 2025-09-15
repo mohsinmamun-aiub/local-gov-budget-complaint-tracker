@@ -1,1 +1,6 @@
 -(initial features go here)
+"## Government Official Dashboard" 
+"## Government Official Dashboard" 
+"Built dashboard for officials to update complaint statuses." 
+"**Status: Done**" 
+"" 
