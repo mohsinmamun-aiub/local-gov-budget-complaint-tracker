@@ -14,7 +14,7 @@
 
 "## Government Official Dashboard" 
 "Built dashboard for officials to update complaint statuses." 
-"**Status: Done**" 
+"**Status: Done**"  
 
 "## Signup for Admin, Citizens, Officials" 
 "Implemented user registration with role-based access." 
