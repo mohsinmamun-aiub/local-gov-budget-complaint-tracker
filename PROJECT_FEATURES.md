@@ -1,5 +1,9 @@
 -(initial features go here)
 
+"## Forgot Password Feature" 
+"Added password reset functionality via email/SMS." 
+"**Status: Done**" 
+
 "## Citizen Dashboard" 
 "Built citizen dashboard for complaint tracking and budget viewing." 
 "**Status: Done**" 
